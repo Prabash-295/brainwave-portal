@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  background: #f4f6f9;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0078d4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="range"] {
+  margin-top: 10px;
+  width: 300px;
+}
+
+.module {
+  margin-top: 20px;
+}
